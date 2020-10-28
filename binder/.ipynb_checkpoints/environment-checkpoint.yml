@@ -3,4 +3,7 @@ dependencies:
   - numpy
   - scipy
   - pandas
+  - xlrd
+  - seaborn
+  
   
