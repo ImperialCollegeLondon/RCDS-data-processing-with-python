@@ -10,7 +10,7 @@ Pandas makes it easier to build workflows that move between different kinds of t
 * Data visualisation
 * Applying statistical tests
 
-This workshop assumes a basic familiarity with the python language, as covered in the *Introduction to Python* workshop.
+This workshop assumes a basic familiarity with the python language, as covered in the [Introduction to Python](https://github.com/coolernato/Introduction-to-Python) workshop.
 
 
 ## Setup
