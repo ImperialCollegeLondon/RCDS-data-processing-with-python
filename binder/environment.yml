@@ -4,5 +4,4 @@ dependencies:
   - scipy
   - pandas
   - openpyxl
-  - xlrd
   - seaborn

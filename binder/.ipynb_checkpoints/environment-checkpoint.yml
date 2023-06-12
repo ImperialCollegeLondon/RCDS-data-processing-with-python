@@ -3,7 +3,5 @@ dependencies:
   - numpy
   - scipy
   - pandas
-  - xlrd
+  - openpyxl
   - seaborn
-  
-  
