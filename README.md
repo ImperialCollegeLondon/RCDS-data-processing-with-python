@@ -1,7 +1,7 @@
 # Data Processing with Python Pandas
 
 This workshop introduces the [pandas](https://pandas.pydata.org) package, which supports data processing in python.
-
+ 
 Pandas makes it easier to build workflows that move between different kinds of task:
 
 * Reading tabular data
