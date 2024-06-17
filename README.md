@@ -19,8 +19,6 @@ We will be working with python using jupyter notebooks. The easiest way to acces
 
 Please install Anaconda from https://www.anaconda.com in advance of the first session.
 
-It will also be helpful to install the "Educational" and "Image Analytics" plug-ins for Orange.
-From the Orange menu bar, go to "Options"->"Add-ons..." and select these two options, then click OK.
 
 
 ## Getting Started
